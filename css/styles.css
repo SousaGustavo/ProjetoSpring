@@ -92,3 +92,7 @@ a, a:hover{
         justify-content: center;
         border-radius: 4px;
 }
+.dsmovie-form-conteiner{
+        padding: 40px 0;
+        max-width: 480px;
+}
